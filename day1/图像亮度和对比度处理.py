@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 
-alpha = 0.3 # 对比度
+alpha = 1.0 # 对比度
 beta = 80   # 亮度
 
 img_path = "./Trla.jpg"
